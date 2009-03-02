@@ -3,7 +3,10 @@
   border: 6px #ccc solid;
   font-family: Georgia, serif;
   font-size: 3.0em;
+  font-weight: bold;
   margin: 50px auto;
   padding: 20px;
+  padding-bottom: 10px;
+  text-align: center;
   width: 500px;
 }
